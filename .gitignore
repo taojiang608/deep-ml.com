@@ -1,0 +1,36 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+venv/
+env/
+.venv/
+.env/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore compiled files
+*.out
+*.o
+
+# Ignore node_modules (for Node.js projects)
+node_modules/
+
+# Ignore .env files containing environment variables
+.env
+
+# Ignore coverage reports
+coverage/
+*.coverage
+
+# Ignore temporary files
+*.tmp
+*.swp
